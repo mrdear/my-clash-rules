@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-04-14 01:56:46
-# Total domains: 3872
+# Updated: 2026-04-15 01:53:08
+# Total domains: 3860
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -1627,8 +1627,6 @@ HOST-SUFFIX,hiveon.net,GFWLIST
 HOST-SUFFIX,hk.jiepang.com,GFWLIST
 HOST-SUFFIX,hk01.com,GFWLIST
 HOST-SUFFIX,hka8964.wordpress.com,GFWLIST
-HOST-SUFFIX,hkacg.com,GFWLIST
-HOST-SUFFIX,hkacg.net,GFWLIST
 HOST-SUFFIX,hkanews.wordpress.com,GFWLIST
 HOST-SUFFIX,hkbookcity.com,GFWLIST
 HOST-SUFFIX,hkchronicles.com,GFWLIST
@@ -2236,7 +2234,6 @@ HOST-SUFFIX,muzi.com,GFWLIST
 HOST-SUFFIX,muzi.net,GFWLIST
 HOST-SUFFIX,muzu.tv,GFWLIST
 HOST-SUFFIX,mvg.jp,GFWLIST
-HOST-SUFFIX,mx981.com,GFWLIST
 HOST-SUFFIX,my-private-network.co.uk,GFWLIST
 HOST-SUFFIX,my.pcloud.com,GFWLIST
 HOST-SUFFIX,myaudiocast.com,GFWLIST
@@ -2430,6 +2427,7 @@ HOST-SUFFIX,ooni.io,GFWLIST
 HOST-SUFFIX,ooni.org,GFWLIST
 HOST-SUFFIX,open.firstory.me,GFWLIST
 HOST-SUFFIX,openai.com,GFWLIST
+HOST-SUFFIX,openart.ai,GFWLIST
 HOST-SUFFIX,opencritic.com,GFWLIST
 HOST-SUFFIX,opendemocracy.net,GFWLIST
 HOST-SUFFIX,openid.net,GFWLIST
@@ -2783,15 +2781,7 @@ HOST-SUFFIX,rutracker.net,GFWLIST
 HOST-SUFFIX,rutracker.org,GFWLIST
 HOST-SUFFIX,s-cute.com,GFWLIST
 HOST-SUFFIX,s.yimg.com,GFWLIST
-HOST-SUFFIX,s3-ap-*.amazonaws.com,GFWLIST
 HOST-SUFFIX,s3-ap-northeast-1.amazonaws.com,GFWLIST
-HOST-SUFFIX,s3-ap-northeast-2.amazonaws.com,GFWLIST
-HOST-SUFFIX,s3-ap-southeast-1.amazonaws.com,GFWLIST
-HOST-SUFFIX,s3-ap-southeast-2.amazonaws.com,GFWLIST
-HOST-SUFFIX,s3-eu-central-1.amazonaws.com,GFWLIST
-HOST-SUFFIX,s3.ap-northeast-2.amazonaws.com,GFWLIST
-HOST-SUFFIX,s3.eu-central-1.amazonaws.com,GFWLIST
-HOST-SUFFIX,s3.us-east-1.amazonaws.com,GFWLIST
 HOST-SUFFIX,sacks.com,GFWLIST
 HOST-SUFFIX,sacom.hk,GFWLIST
 HOST-SUFFIX,sadistic-v.com,GFWLIST
@@ -3529,7 +3519,6 @@ HOST-SUFFIX,vrchat.com,GFWLIST
 HOST-SUFFIX,vrporn.com,GFWLIST
 HOST-SUFFIX,vrsmash.com,GFWLIST
 HOST-SUFFIX,vtunnel.com,GFWLIST
-HOST-SUFFIX,vuku.cc,GFWLIST
 HOST-SUFFIX,vultryhw.com,GFWLIST
 HOST-SUFFIX,w-pool.com,GFWLIST
 HOST-SUFFIX,waffle1999.com,GFWLIST
@@ -3717,7 +3706,6 @@ HOST-SUFFIX,xiaxiaoqiang.net,GFWLIST
 HOST-SUFFIX,xijie.wordpress.com,GFWLIST
 HOST-SUFFIX,xinjiangpolicefiles.org,GFWLIST
 HOST-SUFFIX,xinmiao.com.hk,GFWLIST
-HOST-SUFFIX,xjp.cc,GFWLIST
 HOST-SUFFIX,xjtravelguide.com,GFWLIST
 HOST-SUFFIX,xm.com,GFWLIST
 HOST-SUFFIX,xml-training-guide.com,GFWLIST
