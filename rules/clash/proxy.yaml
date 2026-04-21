@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-04-20 02:02:33
-# Total domains: 25925
+# Updated: 2026-04-21 01:58:20
+# Total domains: 25928
 payload:
   - '000webhost.com'
   - '01.org'
@@ -773,6 +773,7 @@ payload:
   - 'adguard.io'
   - 'adguard.org'
   - 'adguardaccount.com'
+  - 'adguardcdn.com'
   - 'adguardvpn.com'
   - 'adhelpnews.com'
   - 'adidas-archive.org'
@@ -15041,6 +15042,7 @@ payload:
   - 'minilondon.co'
   - 'minimarkham.ca'
   - 'minimarkham.com'
+  - 'minimax.io'
   - 'minimoncton.ca'
   - 'minimoncton.com'
   - 'minimontrealcentre.ca'
@@ -19656,6 +19658,7 @@ payload:
   - 'scolle.net'
   - 'scoop.sh'
   - 'scopus.com'
+  - 'scorecardresearch.com'
   - 'scoreclassics.com'
   - 'scorediscounts.club'
   - 'scoregroup.com'
