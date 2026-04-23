@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-04-22 01:56:51
-# Total domains: 3861
+# Updated: 2026-04-23 02:00:32
+# Total domains: 3868
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -208,6 +208,7 @@ HOST-SUFFIX,apkpure.com,GFWLIST
 HOST-SUFFIX,apkpure.net,GFWLIST
 HOST-SUFFIX,app.box.com,GFWLIST
 HOST-SUFFIX,app.cloudcone.com,GFWLIST
+HOST-SUFFIX,app.element.io,GFWLIST
 HOST-SUFFIX,app.smartmailcloud.com,GFWLIST
 HOST-SUFFIX,appadvice.com,GFWLIST
 HOST-SUFFIX,appbrain.com,GFWLIST
@@ -247,6 +248,7 @@ HOST-SUFFIX,asianews.it,GFWLIST
 HOST-SUFFIX,asianfanfics.com,GFWLIST
 HOST-SUFFIX,asiansexdiary.com,GFWLIST
 HOST-SUFFIX,asiaone.com,GFWLIST
+HOST-SUFFIX,asiasociety.org,GFWLIST
 HOST-SUFFIX,ask.com,GFWLIST
 HOST-SUFFIX,askstudent.com,GFWLIST
 HOST-SUFFIX,askynz.net,GFWLIST
@@ -330,6 +332,7 @@ HOST-SUFFIX,behance.net,GFWLIST
 HOST-SUFFIX,beijing1989.com,GFWLIST
 HOST-SUFFIX,beijing2022.art,GFWLIST
 HOST-SUFFIX,beijingspring.com,GFWLIST
+HOST-SUFFIX,bellingcat.com,GFWLIST
 HOST-SUFFIX,berlinerbericht.de,GFWLIST
 HOST-SUFFIX,berlintwitterwall.com,GFWLIST
 HOST-SUFFIX,bestvpn.com,GFWLIST
@@ -637,7 +640,6 @@ HOST-SUFFIX,chrome.com,GFWLIST
 HOST-SUFFIX,chromecast.com,GFWLIST
 HOST-SUFFIX,chromeexperiments.com,GFWLIST
 HOST-SUFFIX,chromestatus.com,GFWLIST
-HOST-SUFFIX,chromium.org,GFWLIST
 HOST-SUFFIX,ci-en.jp,GFWLIST
 HOST-SUFFIX,cia.gov,GFWLIST
 HOST-SUFFIX,cici.com,GFWLIST
@@ -1836,6 +1838,7 @@ HOST-SUFFIX,islamhouse.com,GFWLIST
 HOST-SUFFIX,ismaelan.com,GFWLIST
 HOST-SUFFIX,ismprofessional.net,GFWLIST
 HOST-SUFFIX,israbox.com,GFWLIST
+HOST-SUFFIX,issues.chromium.org,GFWLIST
 HOST-SUFFIX,issuu.com,GFWLIST
 HOST-SUFFIX,isupportuyghurs.org,GFWLIST
 HOST-SUFFIX,italiatibet.org,GFWLIST
@@ -1970,6 +1973,7 @@ HOST-SUFFIX,lama.com.tw,GFWLIST
 HOST-SUFFIX,lamayeshe.com,GFWLIST
 HOST-SUFFIX,lamnia.co.uk,GFWLIST
 HOST-SUFFIX,landofhope.tv,GFWLIST
+HOST-SUFFIX,lantern.io,GFWLIST
 HOST-SUFFIX,laogai.org,GFWLIST
 HOST-SUFFIX,laogairesearch.org,GFWLIST
 HOST-SUFFIX,laqingdan.net,GFWLIST
@@ -2708,6 +2712,7 @@ HOST-SUFFIX,rationalwiki.org,GFWLIST
 HOST-SUFFIX,raw.githack.com,GFWLIST
 HOST-SUFFIX,rawgit.com,GFWLIST
 HOST-SUFFIX,rawgithub.com,GFWLIST
+HOST-SUFFIX,rawstory.com,GFWLIST
 HOST-SUFFIX,rcam.target.com,GFWLIST
 HOST-SUFFIX,rcinet.ca,GFWLIST
 HOST-SUFFIX,rd.com,GFWLIST
@@ -2718,6 +2723,7 @@ HOST-SUFFIX,readmoo.com,GFWLIST
 HOST-SUFFIX,realcourage.org,GFWLIST
 HOST-SUFFIX,realitykings.com,GFWLIST
 HOST-SUFFIX,reason.com,GFWLIST
+HOST-SUFFIX,recordedfuture.com,GFWLIST
 HOST-SUFFIX,recoveryversion.com.tw,GFWLIST
 HOST-SUFFIX,red-lang.org,GFWLIST
 HOST-SUFFIX,redbubble.com,GFWLIST
@@ -2751,6 +2757,7 @@ HOST-SUFFIX,rixcloud.com,GFWLIST
 HOST-SUFFIX,rixcloud.us,GFWLIST
 HOST-SUFFIX,rlwlw.com,GFWLIST
 HOST-SUFFIX,rmbl.ws,GFWLIST
+HOST-SUFFIX,roblox.com,GFWLIST
 HOST-SUFFIX,robustnessiskey.com,GFWLIST
 HOST-SUFFIX,rocket-inc.net,GFWLIST
 HOST-SUFFIX,rocket.chat,GFWLIST
@@ -2950,7 +2957,6 @@ HOST-SUFFIX,southmongolia.org,GFWLIST
 HOST-SUFFIX,southnews.com.tw,GFWLIST
 HOST-SUFFIX,southpark.cc.com,GFWLIST
 HOST-SUFFIX,sowers.org.hk,GFWLIST
-HOST-SUFFIX,soylentnews.org,GFWLIST
 HOST-SUFFIX,spaces.hightail.com,GFWLIST
 HOST-SUFFIX,spacex.com,GFWLIST
 HOST-SUFFIX,spankbang.com,GFWLIST
@@ -3150,6 +3156,7 @@ HOST-SUFFIX,thetibetpost.com,GFWLIST
 HOST-SUFFIX,thetvdb.com,GFWLIST
 HOST-SUFFIX,thewgo.org,GFWLIST
 HOST-SUFFIX,thewirechina.com,GFWLIST
+HOST-SUFFIX,thinkchina.sg,GFWLIST
 HOST-SUFFIX,thinkgeek.com,GFWLIST
 HOST-SUFFIX,thinkingtaiwan.com,GFWLIST
 HOST-SUFFIX,thinkwithgoogle.com,GFWLIST
