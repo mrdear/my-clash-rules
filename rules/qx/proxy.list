@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-04-23 02:00:32
-# Total domains: 25937
+# Updated: 2026-04-24 02:01:05
+# Total domains: 25940
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -1031,6 +1031,7 @@ HOST-SUFFIX,agedm.tv,PROXY
 HOST-SUFFIX,agefans.com,PROXY
 HOST-SUFFIX,agemys.org,PROXY
 HOST-SUFFIX,agendaweek.com,PROXY
+HOST-SUFFIX,agentclientprotocol.com,PROXY
 HOST-SUFFIX,agilebits.com,PROXY
 HOST-SUFFIX,agnesb.fr,PROXY
 HOST-SUFFIX,agoogleaday.com,PROXY
@@ -17821,6 +17822,7 @@ HOST-SUFFIX,placemyad.com.au,PROXY
 HOST-SUFFIX,placesdocs.com,PROXY
 HOST-SUFFIX,planetminecraft.com,PROXY
 HOST-SUFFIX,planetsuzy.org,PROXY
+HOST-SUFFIX,plannotator.ai,PROXY
 HOST-SUFFIX,plansondemand.com,PROXY
 HOST-SUFFIX,plantsvszombies2.com,PROXY
 HOST-SUFFIX,plasticlabs.com,PROXY
@@ -22456,6 +22458,7 @@ HOST-SUFFIX,twister.net.co,PROXY
 HOST-SUFFIX,twistys.com,PROXY
 HOST-SUFFIX,twitch.tv,PROXY
 HOST-SUFFIX,twitchcdn.net,PROXY
+HOST-SUFFIX,twitchcon.com,PROXY
 HOST-SUFFIX,twitchsvc.net,PROXY
 HOST-SUFFIX,twitcomike.jp,PROXY
 HOST-SUFFIX,twitiq.com,PROXY

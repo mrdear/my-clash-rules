@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-04-23 02:00:32
-# Total domains: 25937
+# Updated: 2026-04-24 02:01:05
+# Total domains: 25940
 payload:
   - '000webhost.com'
   - '01.org'
@@ -1031,6 +1031,7 @@ payload:
   - 'agefans.com'
   - 'agemys.org'
   - 'agendaweek.com'
+  - 'agentclientprotocol.com'
   - 'agilebits.com'
   - 'agnesb.fr'
   - 'agoogleaday.com'
@@ -17821,6 +17822,7 @@ payload:
   - 'placesdocs.com'
   - 'planetminecraft.com'
   - 'planetsuzy.org'
+  - 'plannotator.ai'
   - 'plansondemand.com'
   - 'plantsvszombies2.com'
   - 'plasticlabs.com'
@@ -22456,6 +22458,7 @@ payload:
   - 'twistys.com'
   - 'twitch.tv'
   - 'twitchcdn.net'
+  - 'twitchcon.com'
   - 'twitchsvc.net'
   - 'twitcomike.jp'
   - 'twitiq.com'
