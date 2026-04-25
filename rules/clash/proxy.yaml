@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-04-24 02:01:05
-# Total domains: 25940
+# Updated: 2026-04-25 01:51:02
+# Total domains: 25941
 payload:
   - '000webhost.com'
   - '01.org'
@@ -21440,6 +21440,7 @@ payload:
   - 'tech-mail.ru'
   - 'tech26.de'
   - 'techatbloomberg.com'
+  - 'techbang.com'
   - 'techcrunch.com'
   - 'techhub.ms'
   - 'techliquidators.com'

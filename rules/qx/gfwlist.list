@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-04-24 02:01:05
-# Total domains: 3868
+# Updated: 2026-04-25 01:51:02
+# Total domains: 3869
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -3094,6 +3094,7 @@ HOST-SUFFIX,tbcollege.org,GFWLIST
 HOST-SUFFIX,tbsec.org,GFWLIST
 HOST-SUFFIX,tbsn.org,GFWLIST
 HOST-SUFFIX,teachparentstech.org,GFWLIST
+HOST-SUFFIX,techbang.com,GFWLIST
 HOST-SUFFIX,technews.tw,GFWLIST
 HOST-SUFFIX,techviz.net,GFWLIST
 HOST-SUFFIX,teck.in,GFWLIST
