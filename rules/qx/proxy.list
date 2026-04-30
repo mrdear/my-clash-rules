@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-04-29 02:14:14
-# Total domains: 25941
+# Updated: 2026-04-30 02:23:43
+# Total domains: 25943
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -22010,6 +22010,7 @@ HOST-SUFFIX,tl.gd,PROXY
 HOST-SUFFIX,tma.co.jp,PROXY
 HOST-SUFFIX,tmagazine.com,PROXY
 HOST-SUFFIX,tmdb-image-prod.b-cdn.net,PROXY
+HOST-SUFFIX,tmdb-web-image-prod.b-cdn.net,PROXY
 HOST-SUFFIX,tmdb.org,PROXY
 HOST-SUFFIX,tmei-taoyuan.com,PROXY
 HOST-SUFFIX,tmi.me,PROXY
@@ -22721,6 +22722,7 @@ HOST-SUFFIX,upmedia.mg,PROXY
 HOST-SUFFIX,upornia.com,PROXY
 HOST-SUFFIX,uporno.xxx,PROXY
 HOST-SUFFIX,uproxy.org,PROXY
+HOST-SUFFIX,upsangel.com,PROXY
 HOST-SUFFIX,uptodown.com,PROXY
 HOST-SUFFIX,ura-akiba.jp,PROXY
 HOST-SUFFIX,uraban.me,PROXY
