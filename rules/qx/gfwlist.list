@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-09-11 02:23:55
-# Total domains: 4066
+# Updated: 2026-09-12 02:31:45
+# Total domains: 4051
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -200,19 +200,15 @@ HOST-SUFFIX,aoxvpn.com,GFWLIST
 HOST-SUFFIX,apartmentratings.com,GFWLIST
 HOST-SUFFIX,apartments.com,GFWLIST
 HOST-SUFFIX,apat1989.org,GFWLIST
-HOST-SUFFIX,api-gl.lbkrs.com,GFWLIST
 HOST-SUFFIX,api-secure.recaptcha.net,GFWLIST
 HOST-SUFFIX,api-verify.recaptcha.net,GFWLIST
 HOST-SUFFIX,api.ai,GFWLIST
-HOST-SUFFIX,api.futunn.com,GFWLIST
-HOST-SUFFIX,api.lbkrs.com,GFWLIST
 HOST-SUFFIX,api.moomoobull.com,GFWLIST
 HOST-SUFFIX,api.palworldgame.com,GFWLIST
 HOST-SUFFIX,api.pureapk.com,GFWLIST
 HOST-SUFFIX,api.recaptcha.net,GFWLIST
 HOST-SUFFIX,api.shuaiapi.com,GFWLIST
 HOST-SUFFIX,api.steampowered.com,GFWLIST
-HOST-SUFFIX,api5.futunn.com,GFWLIST
 HOST-SUFFIX,apiary.io,GFWLIST
 HOST-SUFFIX,apigee.com,GFWLIST
 HOST-SUFFIX,apk.support,GFWLIST
@@ -574,7 +570,6 @@ HOST-SUFFIX,cdn*.i-scmp.com,GFWLIST
 HOST-SUFFIX,cdn-images.mailchimp.com,GFWLIST
 HOST-SUFFIX,cdn-telegram.org,GFWLIST
 HOST-SUFFIX,cdn.arstechnica.net,GFWLIST
-HOST-SUFFIX,cdn.futustatic.com,GFWLIST
 HOST-SUFFIX,cdn.jwplayer.com,GFWLIST
 HOST-SUFFIX,cdn.printfriendly.com,GFWLIST
 HOST-SUFFIX,cdn.seatguru.com,GFWLIST
@@ -712,7 +707,6 @@ HOST-SUFFIX,cmule.com,GFWLIST
 HOST-SUFFIX,cmx.im,GFWLIST
 HOST-SUFFIX,cn.sandscotaicentral.com,GFWLIST
 HOST-SUFFIX,cn.theaustralian.com.au,GFWLIST
-HOST-SUFFIX,cn.uptodown.com,GFWLIST
 HOST-SUFFIX,cna.com.tw,GFWLIST
 HOST-SUFFIX,cnbbnews.wordpress.com,GFWLIST
 HOST-SUFFIX,cnbeta.com.tw,GFWLIST
@@ -929,7 +923,6 @@ HOST-SUFFIX,dougscripts.com,GFWLIST
 HOST-SUFFIX,doujincafe.com,GFWLIST
 HOST-SUFFIX,dowjones.io,GFWLIST
 HOST-SUFFIX,download.dappcdn.com,GFWLIST
-HOST-SUFFIX,download.futunn.com,GFWLIST
 HOST-SUFFIX,dpool.top,GFWLIST
 HOST-SUFFIX,dpp.org.tw,GFWLIST
 HOST-SUFFIX,dpr.info,GFWLIST
@@ -2560,12 +2553,8 @@ HOST-SUFFIX,ooni.org,GFWLIST
 HOST-SUFFIX,open.firstory.me,GFWLIST
 HOST-SUFFIX,openai.com,GFWLIST
 HOST-SUFFIX,openapi-quote.longbridge.cn,GFWLIST
-HOST-SUFFIX,openapi-quote.longbridge.com,GFWLIST
 HOST-SUFFIX,openapi-trade.longbridge.cn,GFWLIST
-HOST-SUFFIX,openapi-trade.longbridge.com,GFWLIST
-HOST-SUFFIX,openapi.futunn.com,GFWLIST
 HOST-SUFFIX,openapi.longbridge.cn,GFWLIST
-HOST-SUFFIX,openapi.longbridge.com,GFWLIST
 HOST-SUFFIX,openart.ai,GFWLIST
 HOST-SUFFIX,opencritic.com,GFWLIST
 HOST-SUFFIX,opendemocracy.net,GFWLIST
@@ -2813,9 +2802,8 @@ HOST-SUFFIX,qiwen.lu,GFWLIST
 HOST-SUFFIX,qoos.com,GFWLIST
 HOST-SUFFIX,qq.co.za,GFWLIST
 HOST-SUFFIX,qstatus.com,GFWLIST
-HOST-SUFFIX,qtcard.futunn.com,GFWLIST
-HOST-SUFFIX,qtcardfthk.futufin.com,GFWLIST
 HOST-SUFFIX,qtrac.eu,GFWLIST
+HOST-SUFFIX,quakemachinex.com,GFWLIST
 HOST-SUFFIX,questvisual.com,GFWLIST
 HOST-SUFFIX,quitccp.org,GFWLIST
 HOST-SUFFIX,quiz.directory,GFWLIST
@@ -3198,7 +3186,6 @@ HOST-SUFFIX,supchina.com,GFWLIST
 HOST-SUFFIX,superpages.com,GFWLIST
 HOST-SUFFIX,supervpn.net,GFWLIST
 HOST-SUFFIX,supjav.com,GFWLIST
-HOST-SUFFIX,support.futunn.com,GFWLIST
 HOST-SUFFIX,supremecourt.gov,GFWLIST
 HOST-SUFFIX,surfeasy.com,GFWLIST
 HOST-SUFFIX,surfshark.com,GFWLIST
@@ -3441,8 +3428,6 @@ HOST-SUFFIX,totalvpn.com,GFWLIST
 HOST-SUFFIX,tou.tv,GFWLIST
 HOST-SUFFIX,tpi.org.tw,GFWLIST
 HOST-SUFFIX,tracfone.com,GFWLIST
-HOST-SUFFIX,trade.futunn.com,GFWLIST
-HOST-SUFFIX,trade.longportapp.com,GFWLIST
 HOST-SUFFIX,tradeup.com,GFWLIST
 HOST-SUFFIX,tradingview.com,GFWLIST
 HOST-SUFFIX,translate.goog,GFWLIST
