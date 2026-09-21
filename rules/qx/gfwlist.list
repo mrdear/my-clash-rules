@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-09-20 02:47:04
-# Total domains: 4051
+# Updated: 2026-09-21 02:43:35
+# Total domains: 4052
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -2472,6 +2472,7 @@ HOST-SUFFIX,nordstromimage.com,GFWLIST
 HOST-SUFFIX,nordstromrack.com,GFWLIST
 HOST-SUFFIX,nordvpn.com,GFWLIST
 HOST-SUFFIX,nos.nl,GFWLIST
+HOST-SUFFIX,note.com,GFWLIST
 HOST-SUFFIX,notepad-plus-plus.org,GFWLIST
 HOST-SUFFIX,nottinghampost.com,GFWLIST
 HOST-SUFFIX,now.com,GFWLIST

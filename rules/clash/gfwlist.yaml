@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-09-20 02:47:04
-# Total domains: 4051
+# Updated: 2026-09-21 02:43:35
+# Total domains: 4052
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -2472,6 +2472,7 @@ payload:
   - '+.nordstromrack.com'
   - '+.nordvpn.com'
   - '+.nos.nl'
+  - '+.note.com'
   - '+.notepad-plus-plus.org'
   - '+.nottinghampost.com'
   - '+.now.com'
