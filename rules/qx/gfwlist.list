@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-09-26 02:55:08
-# Total domains: 4055
+# Updated: 2026-09-27 02:58:12
+# Total domains: 4056
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -3613,6 +3613,7 @@ HOST-SUFFIX,valeursactuelles.com,GFWLIST
 HOST-SUFFIX,vansky.com,GFWLIST
 HOST-SUFFIX,vaticannews.va,GFWLIST
 HOST-SUFFIX,vatn.org,GFWLIST
+HOST-SUFFIX,vava8.com,GFWLIST
 HOST-SUFFIX,vcf-online.org,GFWLIST
 HOST-SUFFIX,vcfbuilder.org,GFWLIST
 HOST-SUFFIX,veed.io,GFWLIST
