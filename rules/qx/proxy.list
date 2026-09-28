@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-09-27 02:58:12
-# Total domains: 27028
+# Updated: 2026-09-28 02:56:48
+# Total domains: 27030
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -4840,6 +4840,7 @@ HOST-SUFFIX,c-ij.com,PROXY
 HOST-SUFFIX,c-msedge.net,PROXY
 HOST-SUFFIX,c-span.org,PROXY
 HOST-SUFFIX,c-spanvideo.org,PROXY
+HOST-SUFFIX,c.go-mpulse.net,PROXY
 HOST-SUFFIX,c.mi.com,PROXY
 HOST-SUFFIX,c.ppy.sh,PROXY
 HOST-SUFFIX,c0930.com,PROXY
@@ -23871,6 +23872,7 @@ HOST-SUFFIX,vaultify.com,PROXY
 HOST-SUFFIX,vaultify.info,PROXY
 HOST-SUFFIX,vaultify.net,PROXY
 HOST-SUFFIX,vaultproject.io,PROXY
+HOST-SUFFIX,vava8.com,PROXY
 HOST-SUFFIX,vbcdn.com,PROXY
 HOST-SUFFIX,vbcdn.net,PROXY
 HOST-SUFFIX,vbejeyv.shop,PROXY
