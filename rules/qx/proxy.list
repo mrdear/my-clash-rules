@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-09-29 03:37:11
-# Total domains: 27030
+# Updated: 2026-09-30 03:23:29
+# Total domains: 27036
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -9951,6 +9951,8 @@ HOST-SUFFIX,gelbooru.wjcodes.com,PROXY
 HOST-SUFFIX,gemfire.net,PROXY
 HOST-SUFFIX,gemfury.com,PROXY
 HOST-SUFFIX,gemini.com,PROXY
+HOST-SUFFIX,geminiweb-pa.clients.google.com,PROXY
+HOST-SUFFIX,geminiweb-pa.clients6.google.com,PROXY
 HOST-SUFFIX,gen.lib.rus.ec,PROXY
 HOST-SUFFIX,gencraft.com,PROXY
 HOST-SUFFIX,gendai.net,PROXY
@@ -11861,6 +11863,7 @@ HOST-SUFFIX,huanyuju.com,PROXY
 HOST-SUFFIX,huaren.us,PROXY
 HOST-SUFFIX,huarenav.com,PROXY
 HOST-SUFFIX,huarenporn.com,PROXY
+HOST-SUFFIX,huarun.win,PROXY
 HOST-SUFFIX,huashangnews.com,PROXY
 HOST-SUFFIX,huashundg.com,PROXY
 HOST-SUFFIX,huati.cc,PROXY
@@ -15167,6 +15170,7 @@ HOST-SUFFIX,messytube.com,PROXY
 HOST-SUFFIX,met-nude.com,PROXY
 HOST-SUFFIX,meta.ai,PROXY
 HOST-SUFFIX,meta.com,PROXY
+HOST-SUFFIX,metaaivm.com,PROXY
 HOST-SUFFIX,metabora.io,PROXY
 HOST-SUFFIX,metabrainz.org,PROXY
 HOST-SUFFIX,metacloud.com,PROXY
@@ -16184,6 +16188,7 @@ HOST-SUFFIX,musashinobank.co.jp,PROXY
 HOST-SUFFIX,muscache.com,PROXY
 HOST-SUFFIX,muscdn.com,PROXY
 HOST-SUFFIX,musclegirlflix.com,PROXY
+HOST-SUFFIX,muse.ai,PROXY
 HOST-SUFFIX,muse.jhu.edu,PROXY
 HOST-SUFFIX,mushroomtrack.com,PROXY
 HOST-SUFFIX,mushymush.tv,PROXY
@@ -17697,6 +17702,7 @@ HOST-SUFFIX,openart.ai,PROXY
 HOST-SUFFIX,openbook.org.tw,PROXY
 HOST-SUFFIX,opencas.io,PROXY
 HOST-SUFFIX,openclaw.ai,PROXY
+HOST-SUFFIX,opencode.ai,PROXY
 HOST-SUFFIX,opencollective.com,PROXY
 HOST-SUFFIX,opencreate.org,PROXY
 HOST-SUFFIX,opencritic.com,PROXY
