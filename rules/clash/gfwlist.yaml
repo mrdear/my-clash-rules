@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-09-30 03:23:29
-# Total domains: 4056
+# Updated: 2026-10-01 03:29:29
+# Total domains: 4059
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -1246,6 +1246,7 @@ payload:
   - '+.futustatic.com'
   - '+.fututrade.com'
   - '+.fututrustee.com'
+  - '+.fuyin116.com'
   - '+.fw.cm'
   - '+.fxcm-chinese.com'
   - '+.fxnetworks.com'
@@ -2347,6 +2348,7 @@ payload:
   - '+.mubi.com'
   - '+.mullvad.net'
   - '+.multiply.com'
+  - '+.muse.ai'
   - '+.music.amazon.com'
   - '+.musixmatch.com'
   - '+.muzi.com'
@@ -3707,6 +3709,7 @@ payload:
   - '+.wainao.me'
   - '+.walletconnect.com'
   - '+.walletconnect.org'
+  - '+.wallhaven.cc'
   - '+.wallmama.com'
   - '+.wallpapercasa.com'
   - '+.wallsttv.com'
