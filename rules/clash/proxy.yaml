@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-10-04 03:42:14
-# Total domains: 27038
+# Updated: 2026-10-05 03:25:53
+# Total domains: 27039
 payload:
   - '000webhost.com'
   - '01.org'
@@ -10637,6 +10637,7 @@ payload:
   - 'googlepagecreator.com'
   - 'googlephotos.com'
   - 'googleplay.com'
+  - 'googleplaycensorship.com'
   - 'googleplus.com'
   - 'googlescholar.com'
   - 'googlesource.com'
