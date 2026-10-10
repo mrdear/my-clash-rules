@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-10-09 03:59:13
-# Total domains: 27072
+# Updated: 2026-10-10 03:44:28
+# Total domains: 27076
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -5973,6 +5973,8 @@ HOST-SUFFIX,coova.net,PROXY
 HOST-SUFFIX,coova.org,PROXY
 HOST-SUFFIX,copilot-proxy.githubusercontent.com,PROXY
 HOST-SUFFIX,copilot-stg.com,PROXY
+HOST-SUFFIX,copilot-telemetry-service.githubusercontent.com,PROXY
+HOST-SUFFIX,copilot-telemetry.githubusercontent.com,PROXY
 HOST-SUFFIX,copilot-workspace.githubnext.com,PROXY
 HOST-SUFFIX,copilot.com,PROXY
 HOST-SUFFIX,copilotprodattachments.blob.core.windows.net,PROXY
@@ -12483,6 +12485,8 @@ HOST-SUFFIX,incestvidz.com,PROXY
 HOST-SUFFIX,incezt.net,PROXY
 HOST-SUFFIX,incloak.com,PROXY
 HOST-SUFFIX,inclusivegrowthscore.com,PROXY
+HOST-SUFFIX,incoming-telemetry.thunderbird.net,PROXY
+HOST-SUFFIX,incoming.telemetry.mozilla.org,PROXY
 HOST-SUFFIX,incommon-rsa.org,PROXY
 HOST-SUFFIX,incredibox.fr,PROXY
 HOST-SUFFIX,incy.cc,PROXY

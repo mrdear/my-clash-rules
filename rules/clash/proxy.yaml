@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-10-09 03:59:13
-# Total domains: 27072
+# Updated: 2026-10-10 03:44:28
+# Total domains: 27076
 payload:
   - '000webhost.com'
   - '01.org'
@@ -5973,6 +5973,8 @@ payload:
   - 'coova.org'
   - 'copilot-proxy.githubusercontent.com'
   - 'copilot-stg.com'
+  - 'copilot-telemetry-service.githubusercontent.com'
+  - 'copilot-telemetry.githubusercontent.com'
   - 'copilot-workspace.githubnext.com'
   - 'copilot.com'
   - 'copilotprodattachments.blob.core.windows.net'
@@ -12483,6 +12485,8 @@ payload:
   - 'incezt.net'
   - 'incloak.com'
   - 'inclusivegrowthscore.com'
+  - 'incoming-telemetry.thunderbird.net'
+  - 'incoming.telemetry.mozilla.org'
   - 'incommon-rsa.org'
   - 'incredibox.fr'
   - 'incy.cc'
