@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-10-15 02:40:22
-# Total domains: 27161
+# Updated: 2026-10-16 02:36:09
+# Total domains: 27166
 payload:
   - '000webhost.com'
   - '01.org'
@@ -18651,6 +18651,7 @@ payload:
   - 'playshowtv.com'
   - 'playstation.com'
   - 'playstation.net'
+  - 'playstationnetwork.com'
   - 'playvalorant.com'
   - 'playvids.com'
   - 'playwarcraft3.com'
@@ -20475,6 +20476,7 @@ payload:
   - 'scc-hamivideo.cdn.hinet.net'
   - 'scc.ott.hinet.net'
   - 'scdn.co'
+  - 'scea.com'
   - 'scene7.com'
   - 'scenesource.me'
   - 'scharferporno.com'
@@ -21514,6 +21516,7 @@ payload:
   - 'sony.com.pa'
   - 'sony.com.pe'
   - 'sony.com.ph'
+  - 'sony.com.py'
   - 'sony.com.sg'
   - 'sony.com.sv'
   - 'sony.com.tr'
@@ -21557,8 +21560,10 @@ payload:
   - 'sonydna.com'
   - 'sonyentertainmentnetwork.com'
   - 'sonyglobalsolutions.jp'
+  - 'sonyinteractive.com'
   - 'sonykigyo.jp'
   - 'sonylatvija.com'
+  - 'sonymusic.com.hk'
   - 'sonynetwork.co.jp'
   - 'sonypcl.jp'
   - 'sonypictures.com'
