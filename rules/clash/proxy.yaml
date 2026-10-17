@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-10-16 02:36:09
-# Total domains: 27166
+# Updated: 2026-10-17 02:28:17
+# Total domains: 27167
 payload:
   - '000webhost.com'
   - '01.org'
@@ -499,6 +499,7 @@ payload:
   - '7tb.cc'
   - '7tv.app'
   - '7tv.io'
+  - '7x24hrs.com'
   - '8-d.com'
   - '8008206616.com'
   - '8111y.top'

@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-10-16 02:36:09
-# Total domains: 4096
+# Updated: 2026-10-17 02:28:16
+# Total domains: 4099
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -60,6 +60,7 @@ HOST-SUFFIX,6parkbbs.com,GFWLIST
 HOST-SUFFIX,6parker.com,GFWLIST
 HOST-SUFFIX,6parknews.com,GFWLIST
 HOST-SUFFIX,7capture.com,GFWLIST
+HOST-SUFFIX,7x24hrs.com,GFWLIST
 HOST-SUFFIX,881903.com,GFWLIST
 HOST-SUFFIX,89-64.org,GFWLIST
 HOST-SUFFIX,8964museum.com,GFWLIST
@@ -2266,7 +2267,9 @@ HOST-SUFFIX,meridian-trust.org,GFWLIST
 HOST-SUFFIX,meripet.com,GFWLIST
 HOST-SUFFIX,merit-times.com.tw,GFWLIST
 HOST-SUFFIX,messenger.com,GFWLIST
+HOST-SUFFIX,meta.ai,GFWLIST
 HOST-SUFFIX,meta.com,GFWLIST
+HOST-SUFFIX,metaaivm.com,GFWLIST
 HOST-SUFFIX,metafilter.com,GFWLIST
 HOST-SUFFIX,metamask.io,GFWLIST
 HOST-SUFFIX,metart.com,GFWLIST

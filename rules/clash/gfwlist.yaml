@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-10-16 02:36:09
-# Total domains: 4096
+# Updated: 2026-10-17 02:28:16
+# Total domains: 4099
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -60,6 +60,7 @@ payload:
   - '+.6parker.com'
   - '+.6parknews.com'
   - '+.7capture.com'
+  - '+.7x24hrs.com'
   - '+.881903.com'
   - '+.89-64.org'
   - '+.8964museum.com'
@@ -2266,7 +2267,9 @@ payload:
   - '+.meripet.com'
   - '+.merit-times.com.tw'
   - '+.messenger.com'
+  - '+.meta.ai'
   - '+.meta.com'
+  - '+.metaaivm.com'
   - '+.metafilter.com'
   - '+.metamask.io'
   - '+.metart.com'
