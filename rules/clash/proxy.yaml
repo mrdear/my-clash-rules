@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-10-17 02:28:17
-# Total domains: 27167
+# Updated: 2026-10-18 02:28:40
+# Total domains: 27173
 payload:
   - '000webhost.com'
   - '01.org'
@@ -6226,6 +6226,7 @@ payload:
   - 'cursor.com'
   - 'cursor.sh'
   - 'cursorapi.com'
+  - 'cursorvm.com'
   - 'curve.fi'
   - 'curvefish.com'
   - 'curvybbwwives.com'
@@ -17775,6 +17776,7 @@ payload:
   - 'opac-project.eu'
   - 'open.firstory.me'
   - 'openai.com'
+  - 'openai.org'
   - 'openaiapi-site.azureedge.net'
   - 'openaiassets.blob.core.windows.net'
   - 'openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
@@ -20567,6 +20569,7 @@ payload:
   - 'schwab.com.hk'
   - 'schwab.com.sg'
   - 'schwabassetmanagement.com'
+  - 'schwabcdn.com'
   - 'schwabplan.com'
   - 'sci-hub.ee'
   - 'sci-hub.it.nf'
@@ -22994,6 +22997,8 @@ payload:
   - 'timestalks.com'
   - 'timeweb.cloud'
   - 'timeweb.com'
+  - 'timeweb.tech'
+  - 'timewebcloud.kz'
   - 'timi1.me'
   - 'timo0.com'
   - 'timtales.com'
@@ -23577,6 +23582,7 @@ payload:
   - 'typekit.net'
   - 'typenetwork.com'
   - 'typepad.com'
+  - 'typesafe.ai'
   - 'typeset.io'
   - 'typesquare.com'
   - 'typography.com'
