@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-10-20 02:54:05
-# Total domains: 27185
+# Updated: 2026-10-21 02:48:30
+# Total domains: 27190
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -14023,6 +14023,8 @@ HOST-SUFFIX,kotlinlang.org,PROXY
 HOST-SUFFIX,koubaibu.jp,PROXY
 HOST-SUFFIX,koukoku.jp,PROXY
 HOST-SUFFIX,kouwobb.com,PROXY
+HOST-SUFFIX,kp-config-smart-tv.akamaized.net,PROXY
+HOST-SUFFIX,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com,PROXY
 HOST-SUFFIX,kpacg.com,PROXY
 HOST-SUFFIX,kphimsex.net,PROXY
 HOST-SUFFIX,kpht85.com,PROXY
@@ -14742,6 +14744,7 @@ HOST-SUFFIX,magentomobile.com,PROXY
 HOST-SUFFIX,magestic.com,PROXY
 HOST-SUFFIX,magicalmirai.com,PROXY
 HOST-SUFFIX,magicmovies.com,PROXY
+HOST-SUFFIX,magnific.com,PROXY
 HOST-SUFFIX,mahajantech.com,PROXY
 HOST-SUFFIX,mahjongsoul.com,PROXY
 HOST-SUFFIX,maidonanews.jp,PROXY
@@ -16225,6 +16228,7 @@ HOST-SUFFIX,mtalk.google.com,PROXY
 HOST-SUFFIX,mtalk4.google.com,PROXY
 HOST-SUFFIX,mtao.fun,PROXY
 HOST-SUFFIX,mthruf.com,PROXY
+HOST-SUFFIX,mts-link.ru,PROXY
 HOST-SUFFIX,mts-ws.net,PROXY
 HOST-SUFFIX,mts.ru,PROXY
 HOST-SUFFIX,mtsbank.ru,PROXY
@@ -19126,6 +19130,7 @@ HOST-SUFFIX,postgresql.org,PROXY
 HOST-SUFFIX,postimages.org,PROXY
 HOST-SUFFIX,postimg.cc,PROXY
 HOST-SUFFIX,postini.com,PROXY
+HOST-SUFFIX,postman.com,PROXY
 HOST-SUFFIX,posts.careerengine.us,PROXY
 HOST-SUFFIX,posty.kr,PROXY
 HOST-SUFFIX,postyourgirls.ws,PROXY
