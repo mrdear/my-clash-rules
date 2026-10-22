@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-10-21 02:48:30
-# Total domains: 27190
+# Updated: 2026-10-22 02:47:10
+# Total domains: 27192
 payload:
   - '000webhost.com'
   - '01.org'
@@ -2744,8 +2744,10 @@ payload:
   - 'avinin.com'
   - 'avira.com'
   - 'avistaz.to'
+  - 'avito.com'
   - 'avito.ru'
   - 'avito.st'
+  - 'avito.tech'
   - 'avizoon.site'
   - 'avizoone.com'
   - 'avjb.com'

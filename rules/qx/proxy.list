@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-10-21 02:48:30
-# Total domains: 27190
+# Updated: 2026-10-22 02:47:10
+# Total domains: 27192
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -2744,8 +2744,10 @@ HOST-SUFFIX,avinetworks.com,PROXY
 HOST-SUFFIX,avinin.com,PROXY
 HOST-SUFFIX,avira.com,PROXY
 HOST-SUFFIX,avistaz.to,PROXY
+HOST-SUFFIX,avito.com,PROXY
 HOST-SUFFIX,avito.ru,PROXY
 HOST-SUFFIX,avito.st,PROXY
+HOST-SUFFIX,avito.tech,PROXY
 HOST-SUFFIX,avizoon.site,PROXY
 HOST-SUFFIX,avizoone.com,PROXY
 HOST-SUFFIX,avjb.com,PROXY
