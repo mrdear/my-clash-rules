@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-10-23 02:50:44
-# Total domains: 4099
+# Updated: 2026-10-24 02:47:46
+# Total domains: 4101
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -750,6 +750,7 @@ payload:
   - '+.compileheart.com'
   - '+.connect.facebook.net'
   - '+.conoha.jp'
+  - '+.console.typesafe.ai'
   - '+.contests.twilio.com'
   - '+.cool18.com'
   - '+.coolaler.com'
@@ -1264,6 +1265,7 @@ payload:
   - '+.g.ai'
   - '+.g.co'
   - '+.g0v.social'
+  - '+.ga.jspm.io'
   - '+.gab.com'
   - '+.gabocorp.com'
   - '+.gagaoolala.com'

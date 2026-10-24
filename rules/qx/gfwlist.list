@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-10-23 02:50:44
-# Total domains: 4099
+# Updated: 2026-10-24 02:47:46
+# Total domains: 4101
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -750,6 +750,7 @@ HOST-SUFFIX,comparitech.com,GFWLIST
 HOST-SUFFIX,compileheart.com,GFWLIST
 HOST-SUFFIX,connect.facebook.net,GFWLIST
 HOST-SUFFIX,conoha.jp,GFWLIST
+HOST-SUFFIX,console.typesafe.ai,GFWLIST
 HOST-SUFFIX,contests.twilio.com,GFWLIST
 HOST-SUFFIX,cool18.com,GFWLIST
 HOST-SUFFIX,coolaler.com,GFWLIST
@@ -1264,6 +1265,7 @@ HOST-SUFFIX,g-queen.com,GFWLIST
 HOST-SUFFIX,g.ai,GFWLIST
 HOST-SUFFIX,g.co,GFWLIST
 HOST-SUFFIX,g0v.social,GFWLIST
+HOST-SUFFIX,ga.jspm.io,GFWLIST
 HOST-SUFFIX,gab.com,GFWLIST
 HOST-SUFFIX,gabocorp.com,GFWLIST
 HOST-SUFFIX,gagaoolala.com,GFWLIST

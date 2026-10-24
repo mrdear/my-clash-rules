@@ -1,21 +1,31 @@
 # Local CIDR List for Quantumult X
-# Updated: 2026-10-23 02:50:45
-# Total cidrs: 18
+# Updated: 2026-10-24 02:47:46
+# Total cidrs: 28
 
 IP-CIDR,0.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+IP-CIDR6,100::/64,DIRECT,no-resolve
 IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
 IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
 IP-CIDR,192.0.0.0/24,DIRECT,no-resolve
 IP-CIDR,192.0.2.0/24,DIRECT,no-resolve
 IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+IP-CIDR,192.31.196.0/24,DIRECT,no-resolve
+IP-CIDR,192.52.193.0/24,DIRECT,no-resolve
 IP-CIDR,192.88.99.0/24,DIRECT,no-resolve
 IP-CIDR,198.18.0.0/15,DIRECT,no-resolve
 IP-CIDR,198.51.100.0/24,DIRECT,no-resolve
+IP-CIDR6,2001::/23,DIRECT,no-resolve
+IP-CIDR6,2001:db8::/32,DIRECT,no-resolve
 IP-CIDR,203.0.113.0/24,DIRECT,no-resolve
 IP-CIDR,224.0.0.0/3,DIRECT,no-resolve
+IP-CIDR6,2620:4f:8000::/48,DIRECT,no-resolve
+IP-CIDR6,3fff::/20,DIRECT,no-resolve
+IP-CIDR6,5f00::/16,DIRECT,no-resolve
+IP-CIDR6,64:ff9b:1::/48,DIRECT,no-resolve
+IP-CIDR6,64:ff9b::/96,DIRECT,no-resolve
 IP-CIDR6,::/127,DIRECT,no-resolve
 IP-CIDR6,fc00::/7,DIRECT,no-resolve
 IP-CIDR6,fe80::/10,DIRECT,no-resolve
