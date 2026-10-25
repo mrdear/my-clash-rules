@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-10-24 02:47:46
-# Total domains: 4101
+# Updated: 2026-10-25 02:38:56
+# Total domains: 4110
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -9,6 +9,7 @@ payload:
   - '+.10musume.com'
   - '+.123av.com'
   - '+.123av.me'
+  - '+.123av.org'
   - '+.12bet.com'
   - '+.12vpn.com'
   - '+.12vpn.net'
@@ -2041,6 +2042,7 @@ payload:
   - '+.kichiku-doujinko.com'
   - '+.kik.com'
   - '+.killwall.com'
+  - '+.kimootoko.net'
   - '+.kindle4rss.com'
   - '+.kingdomsalvation.org'
   - '+.kingkong.com.tw'
@@ -2308,6 +2310,7 @@ payload:
   - '+.minhhue.net'
   - '+.miningpoolhub.com'
   - '+.ministrybooks.org'
+  - '+.minkch.com'
   - '+.minzhuzhongguo.org'
   - '+.miraheze.org'
   - '+.mirdc.org.tw'
@@ -2365,6 +2368,7 @@ payload:
   - '+.mos.ru'
   - '+.mosavi.io'
   - '+.movements.org'
+  - '+.movie.eroterest.net'
   - '+.moviefap.com'
   - '+.mpettis.com'
   - '+.mpfinance.com'
@@ -2495,6 +2499,9 @@ payload:
   - '+.niu.moe'
   - '+.niusnews.com'
   - '+.njactb.org'
+  - '+.njav.com'
+  - '+.njav.tv'
+  - '+.njavtv.com'
   - '+.nlfreevpn.com'
   - '+.nmsl.website'
   - '+.nnews.eu'
@@ -2733,6 +2740,7 @@ payload:
   - '+.plurk.com'
   - '+.plus.codes'
   - '+.pmatehunter.com'
+  - '+.po-kaki-to.com'
   - '+.po2b.com'
   - '+.podbean.com'
   - '+.podcast.co'
@@ -4094,6 +4102,7 @@ payload:
   - '+.zophar.net'
   - '+.zorrovpn.com'
   - '+.zozotown.com'
+  - '+.zozovideo.com'
   - '+.zpn.im'
   - '+.zspeeder.me'
   - '+.zuo.la'
