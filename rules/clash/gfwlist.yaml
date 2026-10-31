@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-10-30 03:51:52
-# Total domains: 4110
+# Updated: 2026-10-31 03:35:49
+# Total domains: 4115
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -192,6 +192,7 @@ payload:
   - '+.anonfiles.com'
   - '+.anonymouse.org'
   - '+.anthonycalzadilla.com'
+  - '+.anthropic.auth0.com'
   - '+.anthropic.com'
   - '+.antpool.com'
   - '+.anuneko.com'
@@ -480,6 +481,7 @@ payload:
   - '+.brookings.edu'
   - '+.brutaltgp.com'
   - '+.bsky.app'
+  - '+.bsky.chat'
   - '+.bsky.network'
   - '+.bsky.social'
   - '+.bt4g.org'
@@ -692,7 +694,10 @@ payload:
   - '+.clashyun.com'
   - '+.classicalguitarblog.net'
   - '+.claude.ai'
+  - '+.claude.app'
   - '+.claude.com'
+  - '+.claudemcpcontent.com'
+  - '+.claudeusercontent.com'
   - '+.cldr.unicode.org'
   - '+.clearsurance.com'
   - '+.clementine-player.org'

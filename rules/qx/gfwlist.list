@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-10-30 03:51:52
-# Total domains: 4110
+# Updated: 2026-10-31 03:35:49
+# Total domains: 4115
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -192,6 +192,7 @@ HOST-SUFFIX,anobii.com,GFWLIST
 HOST-SUFFIX,anonfiles.com,GFWLIST
 HOST-SUFFIX,anonymouse.org,GFWLIST
 HOST-SUFFIX,anthonycalzadilla.com,GFWLIST
+HOST-SUFFIX,anthropic.auth0.com,GFWLIST
 HOST-SUFFIX,anthropic.com,GFWLIST
 HOST-SUFFIX,antpool.com,GFWLIST
 HOST-SUFFIX,anuneko.com,GFWLIST
@@ -480,6 +481,7 @@ HOST-SUFFIX,broadpressinc.com,GFWLIST
 HOST-SUFFIX,brookings.edu,GFWLIST
 HOST-SUFFIX,brutaltgp.com,GFWLIST
 HOST-SUFFIX,bsky.app,GFWLIST
+HOST-SUFFIX,bsky.chat,GFWLIST
 HOST-SUFFIX,bsky.network,GFWLIST
 HOST-SUFFIX,bsky.social,GFWLIST
 HOST-SUFFIX,bt4g.org,GFWLIST
@@ -692,7 +694,10 @@ HOST-SUFFIX,ck101.com,GFWLIST
 HOST-SUFFIX,clashyun.com,GFWLIST
 HOST-SUFFIX,classicalguitarblog.net,GFWLIST
 HOST-SUFFIX,claude.ai,GFWLIST
+HOST-SUFFIX,claude.app,GFWLIST
 HOST-SUFFIX,claude.com,GFWLIST
+HOST-SUFFIX,claudemcpcontent.com,GFWLIST
+HOST-SUFFIX,claudeusercontent.com,GFWLIST
 HOST-SUFFIX,cldr.unicode.org,GFWLIST
 HOST-SUFFIX,clearsurance.com,GFWLIST
 HOST-SUFFIX,clementine-player.org,GFWLIST

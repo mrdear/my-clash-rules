@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-10-30 03:51:53
-# Total domains: 27244
+# Updated: 2026-10-31 03:35:49
+# Total domains: 27252
 payload:
   - '000webhost.com'
   - '01.org'
@@ -122,6 +122,7 @@ payload:
   - '18comic-god.xyz'
   - '18comic.cc'
   - '18comic.company'
+  - '18comic.ink'
   - '18comic.org'
   - '18comic.vip'
   - '18commic.com'
@@ -3726,6 +3727,7 @@ payload:
   - 'bingparachute.com'
   - 'bingsandbox.com'
   - 'bingsettingssearch.trafficmanager.net'
+  - 'bingstatic.com'
   - 'bingvisualsearch.com'
   - 'bingworld.com'
   - 'bingx.com'
@@ -4688,6 +4690,7 @@ payload:
   - 'bscdnweb.com'
   - 'bsi.ir'
   - 'bsky.app'
+  - 'bsky.chat'
   - 'bsky.network'
   - 'bsky.social'
   - 'bspb.ru'
@@ -10295,6 +10298,7 @@ payload:
   - 'githubassets.com'
   - 'githubcopilot.com'
   - 'githubhackathon.com'
+  - 'githubhelp.com'
   - 'githubnext.com'
   - 'githubpreview.dev'
   - 'githubstatus.com'
@@ -16261,6 +16265,7 @@ payload:
   - 'msfteducation.ca'
   - 'msftncsi.com'
   - 'msftnet.org'
+  - 'msftstatic.com'
   - 'msgamesresearch.com'
   - 'msgamestudios.com'
   - 'msh.amazon.co.uk'
@@ -23014,9 +23019,12 @@ payload:
   - 'tiktokglobalshopv.com'
   - 'tiktokminis.us'
   - 'tiktokrow-cdn.com'
+  - 'tiktokshop.com'
+  - 'tiktokstaticb.com'
   - 'tiktokv.com'
   - 'tiktokv.eu'
   - 'tiktokv.us'
+  - 'tiktokvapp.com'
   - 'tiktokw.eu'
   - 'tiktokw.us'
   - 'tilda.cc'
