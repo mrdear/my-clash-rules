@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-10-31 03:35:49
-# Total domains: 27252
+# Updated: 2026-11-01 03:41:32
+# Total domains: 27254
 payload:
   - '000webhost.com'
   - '01.org'
@@ -23243,6 +23243,7 @@ payload:
   - 'torproject.org'
   - 'torrentgalaxy.to'
   - 'torrentkitty.tv'
+  - 'torrentleech.org'
   - 'torrentprivacy.com'
   - 'torrentproject.se'
   - 'torrenty.org'
@@ -26978,6 +26979,7 @@ payload:
   - 'youtubekids.com'
   - 'youtubemobilesupport.com'
   - 'youversion.com'
+  - 'youversionapi.com'
   - 'youwin.com'
   - 'youwuss.com'
   - 'youx.xxx'

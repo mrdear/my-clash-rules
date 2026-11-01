@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-10-31 03:35:49
-# Total domains: 4115
+# Updated: 2026-11-01 03:41:32
+# Total domains: 4118
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -213,6 +213,7 @@ HOST-SUFFIX,api.pureapk.com,GFWLIST
 HOST-SUFFIX,api.recaptcha.net,GFWLIST
 HOST-SUFFIX,api.shuaiapi.com,GFWLIST
 HOST-SUFFIX,api.steampowered.com,GFWLIST
+HOST-SUFFIX,api.themoviedb.org,GFWLIST
 HOST-SUFFIX,apiary.io,GFWLIST
 HOST-SUFFIX,apigee.com,GFWLIST
 HOST-SUFFIX,apk.support,GFWLIST
@@ -3476,6 +3477,7 @@ HOST-SUFFIX,torlock.com,GFWLIST
 HOST-SUFFIX,torproject.org,GFWLIST
 HOST-SUFFIX,torrentgalaxy.to,GFWLIST
 HOST-SUFFIX,torrentkitty.tv,GFWLIST
+HOST-SUFFIX,torrentleech.org,GFWLIST
 HOST-SUFFIX,torrentprivacy.com,GFWLIST
 HOST-SUFFIX,torrenty.org,GFWLIST
 HOST-SUFFIX,tortoisesvn.net,GFWLIST
@@ -4041,6 +4043,7 @@ HOST-SUFFIX,youtubeeducation.com,GFWLIST
 HOST-SUFFIX,youtubegaming.com,GFWLIST
 HOST-SUFFIX,youtubekids.com,GFWLIST
 HOST-SUFFIX,youversion.com,GFWLIST
+HOST-SUFFIX,youversionapi.com,GFWLIST
 HOST-SUFFIX,youwin.com,GFWLIST
 HOST-SUFFIX,youxu.info,GFWLIST
 HOST-SUFFIX,yt.be,GFWLIST

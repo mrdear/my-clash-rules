@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-10-31 03:35:49
-# Total domains: 4115
+# Updated: 2026-11-01 03:41:32
+# Total domains: 4118
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -213,6 +213,7 @@ payload:
   - '+.api.recaptcha.net'
   - '+.api.shuaiapi.com'
   - '+.api.steampowered.com'
+  - '+.api.themoviedb.org'
   - '+.apiary.io'
   - '+.apigee.com'
   - '+.apk.support'
@@ -3476,6 +3477,7 @@ payload:
   - '+.torproject.org'
   - '+.torrentgalaxy.to'
   - '+.torrentkitty.tv'
+  - '+.torrentleech.org'
   - '+.torrentprivacy.com'
   - '+.torrenty.org'
   - '+.tortoisesvn.net'
@@ -4041,6 +4043,7 @@ payload:
   - '+.youtubegaming.com'
   - '+.youtubekids.com'
   - '+.youversion.com'
+  - '+.youversionapi.com'
   - '+.youwin.com'
   - '+.youxu.info'
   - '+.yt.be'

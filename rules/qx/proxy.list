@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-10-31 03:35:49
-# Total domains: 27252
+# Updated: 2026-11-01 03:41:32
+# Total domains: 27254
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -23243,6 +23243,7 @@ HOST-SUFFIX,toroporno.com,PROXY
 HOST-SUFFIX,torproject.org,PROXY
 HOST-SUFFIX,torrentgalaxy.to,PROXY
 HOST-SUFFIX,torrentkitty.tv,PROXY
+HOST-SUFFIX,torrentleech.org,PROXY
 HOST-SUFFIX,torrentprivacy.com,PROXY
 HOST-SUFFIX,torrentproject.se,PROXY
 HOST-SUFFIX,torrenty.org,PROXY
@@ -26978,6 +26979,7 @@ HOST-SUFFIX,youtubego.in,PROXY
 HOST-SUFFIX,youtubekids.com,PROXY
 HOST-SUFFIX,youtubemobilesupport.com,PROXY
 HOST-SUFFIX,youversion.com,PROXY
+HOST-SUFFIX,youversionapi.com,PROXY
 HOST-SUFFIX,youwin.com,PROXY
 HOST-SUFFIX,youwuss.com,PROXY
 HOST-SUFFIX,youx.xxx,PROXY
