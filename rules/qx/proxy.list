@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-11-01 03:41:32
-# Total domains: 27254
+# Updated: 2026-11-02 03:46:45
+# Total domains: 27263
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -4018,6 +4018,7 @@ HOST-SUFFIX,bmi.ir,PROXY
 HOST-SUFFIX,bmia.org,PROXY
 HOST-SUFFIX,bmj.com,PROXY
 HOST-SUFFIX,bml.info,PROXY
+HOST-SUFFIX,bmonkeys.net,PROXY
 HOST-SUFFIX,bmw-abudhabi.com,PROXY
 HOST-SUFFIX,bmw-adventskalender.com,PROXY
 HOST-SUFFIX,bmw-albania.com,PROXY
@@ -4444,6 +4445,7 @@ HOST-SUFFIX,boj.or.jp,PROXY
 HOST-SUFFIX,bokep.net,PROXY
 HOST-SUFFIX,bokepseks.org,PROXY
 HOST-SUFFIX,bokepvidz.com,PROXY
+HOST-SUFFIX,boldgrid.com,PROXY
 HOST-SUFFIX,bolehvpn.net,PROXY
 HOST-SUFFIX,bollywoodlife.com,PROXY
 HOST-SUFFIX,boltdns.net,PROXY
@@ -5792,6 +5794,7 @@ HOST-SUFFIX,cloudproxy.app,PROXY
 HOST-SUFFIX,cloudrobotics.com,PROXY
 HOST-SUFFIX,cloudsync-prod.s3.amazonaws.com,PROXY
 HOST-SUFFIX,cloudvolumes.com,PROXY
+HOST-SUFFIX,cloudwp.dev,PROXY
 HOST-SUFFIX,cloudyzgirl.com,PROXY
 HOST-SUFFIX,cloupia.com,PROXY
 HOST-SUFFIX,cloupia.net,PROXY
@@ -22061,6 +22064,7 @@ HOST-SUFFIX,steamladder.com,PROXY
 HOST-SUFFIX,steammobile.akamaized.net,PROXY
 HOST-SUFFIX,steamofporn.com,PROXY
 HOST-SUFFIX,steamos.cloud,PROXY
+HOST-SUFFIX,steampeek.hu,PROXY
 HOST-SUFFIX,steampipe-kr.akamaized.net,PROXY
 HOST-SUFFIX,steampipe-partner.akamaized.net,PROXY
 HOST-SUFFIX,steampipe.akamaized.net,PROXY
@@ -24706,6 +24710,7 @@ HOST-SUFFIX,vodafone.com.tr,PROXY
 HOST-SUFFIX,vodafone.de,PROXY
 HOST-SUFFIX,vodafone.it,PROXY
 HOST-SUFFIX,vodafone.nl,PROXY
+HOST-SUFFIX,vodafoneziggo.nl,PROXY
 HOST-SUFFIX,voicettank.org,PROXY
 HOST-SUFFIX,vokevr.com,PROXY
 HOST-SUFFIX,vol.moe,PROXY
@@ -25171,7 +25176,9 @@ HOST-SUFFIX,webex.com.mx,PROXY
 HOST-SUFFIX,webex.de,PROXY
 HOST-SUFFIX,webex.es,PROXY
 HOST-SUFFIX,webex.fr,PROXY
+HOST-SUFFIX,webflow-ext.com,PROXY
 HOST-SUFFIX,webflow.com,PROXY
+HOST-SUFFIX,webflow.io,PROXY
 HOST-SUFFIX,webgata.net,PROXY
 HOST-SUFFIX,webgirlsonline.net,PROXY
 HOST-SUFFIX,webhosting.com,PROXY
@@ -25196,6 +25203,7 @@ HOST-SUFFIX,webpkgcache.com,PROXY
 HOST-SUFFIX,webrtc.org,PROXY
 HOST-SUFFIX,websdr.org,PROXY
 HOST-SUFFIX,webshare.io,PROXY
+HOST-SUFFIX,website-files.com,PROXY
 HOST-SUFFIX,website.new,PROXY
 HOST-SUFFIX,webtoons.com,PROXY
 HOST-SUFFIX,webtoonscorp.com,PROXY
@@ -27139,6 +27147,7 @@ HOST-SUFFIX,zhuichaguoji.org,PROXY
 HOST-SUFFIX,zhuzhushipin-app.com,PROXY
 HOST-SUFFIX,zi.media,PROXY
 HOST-SUFFIX,zibacity.com,PROXY
+HOST-SUFFIX,ziggo.nl,PROXY
 HOST-SUFFIX,ziglang.org,PROXY
 HOST-SUFFIX,zigzag.kr,PROXY
 HOST-SUFFIX,zillionk.com,PROXY
