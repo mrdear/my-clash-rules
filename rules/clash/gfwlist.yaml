@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-11-03 04:50:58
-# Total domains: 4118
+# Updated: 2026-11-04 04:17:47
+# Total domains: 4119
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -381,6 +381,7 @@ payload:
   - '+.bignews.org'
   - '+.bigone.com'
   - '+.bild.de'
+  - '+.bilibili.tv'
   - '+.bilinovel.com'
   - '+.binance.com'
   - '+.binance.org'

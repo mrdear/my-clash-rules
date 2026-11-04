@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-11-03 04:50:58
-# Total domains: 4118
+# Updated: 2026-11-04 04:17:47
+# Total domains: 4119
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -381,6 +381,7 @@ HOST-SUFFIX,bigjapanesesex.com,GFWLIST
 HOST-SUFFIX,bignews.org,GFWLIST
 HOST-SUFFIX,bigone.com,GFWLIST
 HOST-SUFFIX,bild.de,GFWLIST
+HOST-SUFFIX,bilibili.tv,GFWLIST
 HOST-SUFFIX,bilinovel.com,GFWLIST
 HOST-SUFFIX,binance.com,GFWLIST
 HOST-SUFFIX,binance.org,GFWLIST
