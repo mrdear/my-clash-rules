@@ -1,5 +1,5 @@
 # GFW List for Quantumult X
-# Updated: 2026-11-05 04:35:57
+# Updated: 2026-11-06 04:34:57
 # Total domains: 4119
 
 HOST-SUFFIX,000webhost.com,GFWLIST
@@ -2243,7 +2243,6 @@ HOST-SUFFIX,matters.news,GFWLIST
 HOST-SUFFIX,matters.town,GFWLIST
 HOST-SUFFIX,matthewdgreen.wordpress.com,GFWLIST
 HOST-SUFFIX,mattwilcox.net,GFWLIST
-HOST-SUFFIX,maven.neoforged.net,GFWLIST
 HOST-SUFFIX,mcadforums.com,GFWLIST
 HOST-SUFFIX,mceindex.com,GFWLIST
 HOST-SUFFIX,mcusercontent.com,GFWLIST
@@ -2442,6 +2441,7 @@ HOST-SUFFIX,ned.org,GFWLIST
 HOST-SUFFIX,nekoslovakia.net,GFWLIST
 HOST-SUFFIX,neo-miracle.com,GFWLIST
 HOST-SUFFIX,neodb.social,GFWLIST
+HOST-SUFFIX,neoforged.net,GFWLIST
 HOST-SUFFIX,neowin.net,GFWLIST
 HOST-SUFFIX,nephobox.com,GFWLIST
 HOST-SUFFIX,netalert.me,GFWLIST

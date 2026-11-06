@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-11-05 04:35:57
-# Total domains: 27265
+# Updated: 2026-11-06 04:34:57
+# Total domains: 27270
 payload:
   - '000webhost.com'
   - '01.org'
@@ -14400,6 +14400,9 @@ payload:
   - 'lilhumpers.com'
   - 'liliav.com'
   - 'lilith-soft.com'
+  - 'limbuscompany.global'
+  - 'limbuscompanyapi.com'
+  - 'limbuscompanycdn.org'
   - 'limedia.tw'
   - 'limelight.com'
   - 'limer.tw'
@@ -19398,6 +19401,7 @@ payload:
   - 'projectcircuitbreaker.com'
   - 'projecteuclid.org'
   - 'projectjav.com'
+  - 'projectmoon.studio'
   - 'projectmurphy.net'
   - 'projectpoint.com'
   - 'projectpoint.net'
@@ -21366,6 +21370,7 @@ payload:
   - 'skillshare.com'
   - 'skimtube.com'
   - 'skinstrip.net'
+  - 'skinswap.com'
   - 'skokka.com'
   - 'sksarab.top'
   - 'skunkgirl.cc'
