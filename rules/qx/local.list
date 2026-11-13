@@ -1,5 +1,5 @@
 # Local CIDR List for Quantumult X
-# Updated: 2026-11-12 05:14:06
+# Updated: 2026-11-13 04:29:45
 # Total cidrs: 28
 
 IP-CIDR,0.0.0.0/8,DIRECT,no-resolve
