@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-11-13 04:29:45
-# Total domains: 27279
+# Updated: 2026-11-14 04:26:35
+# Total domains: 27280
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -401,6 +401,7 @@ HOST-SUFFIX,51lieqi.com,PROXY
 HOST-SUFFIX,51luoben.com,PROXY
 HOST-SUFFIX,51luoli.info,PROXY
 HOST-SUFFIX,51mh.app,PROXY
+HOST-SUFFIX,51papaya.com,PROXY
 HOST-SUFFIX,51pincha.cc,PROXY
 HOST-SUFFIX,51tuqiang.com,PROXY
 HOST-SUFFIX,520aa.tv,PROXY
