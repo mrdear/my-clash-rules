@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-11-15 04:11:37
-# Total domains: 27280
+# Updated: 2026-11-16 04:10:37
+# Total domains: 27285
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -4738,6 +4738,7 @@ HOST-SUFFIX,bugzilla.org,PROXY
 HOST-SUFFIX,buhidoh.net,PROXY
 HOST-SUFFIX,buicha.social,PROXY
 HOST-SUFFIX,building3dcontent.com,PROXY
+HOST-SUFFIX,builds.dotnet.microsoft.com,PROXY
 HOST-SUFFIX,builtfromebay.com,PROXY
 HOST-SUFFIX,builtwithnix.org,PROXY
 HOST-SUFFIX,bukkake-jav.com,PROXY
@@ -6553,6 +6554,7 @@ HOST-SUFFIX,dealtree.org,PROXY
 HOST-SUFFIX,deasians.com,PROXY
 HOST-SUFFIX,debank.com,PROXY
 HOST-SUFFIX,debian.org,PROXY
+HOST-SUFFIX,debot.ai,PROXY
 HOST-SUFFIX,debug.com,PROXY
 HOST-SUFFIX,debugproject.com,PROXY
 HOST-SUFFIX,decentr.net,PROXY
@@ -7314,6 +7316,7 @@ HOST-SUFFIX,dotfreesex.com,PROXY
 HOST-SUFFIX,dotherex.com,PROXY
 HOST-SUFFIX,dothq.org,PROXY
 HOST-SUFFIX,dotmac.de,PROXY
+HOST-SUFFIX,dotnetcli.trafficmanager.net,PROXY
 HOST-SUFFIX,dotplane.com,PROXY
 HOST-SUFFIX,dotsub.com,PROXY
 HOST-SUFFIX,dotvpn.com,PROXY
@@ -20008,6 +20011,7 @@ HOST-SUFFIX,reiporno.com,PROXY
 HOST-SUFFIX,relateiq.com,PROXY
 HOST-SUFFIX,religionnews.com,PROXY
 HOST-SUFFIX,remirepo.net,PROXY
+HOST-SUFFIX,remna.dev,PROXY
 HOST-SUFFIX,remna.st,PROXY
 HOST-SUFFIX,rencapbank.ru,PROXY
 HOST-SUFFIX,renchead.com,PROXY
@@ -22241,6 +22245,7 @@ HOST-SUFFIX,sunbingo.co.uk,PROXY
 HOST-SUFFIX,sundanceignite2016.com,PROXY
 HOST-SUFFIX,sundayguardianlive.com,PROXY
 HOST-SUFFIX,sundayready.com,PROXY
+HOST-SUFFIX,sundry-star-net-geo.trafficmanager.net,PROXY
 HOST-SUFFIX,sunglassessale2014.com,PROXY
 HOST-SUFFIX,sunmedia.ca,PROXY
 HOST-SUFFIX,suno.ai,PROXY
