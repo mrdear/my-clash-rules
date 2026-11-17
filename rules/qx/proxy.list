@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-11-16 04:10:37
-# Total domains: 27285
+# Updated: 2026-11-17 05:57:51
+# Total domains: 27287
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -6314,6 +6314,7 @@ HOST-SUFFIX,cybertrust.co.jp,PROXY
 HOST-SUFFIX,cybertrust.ne.jp,PROXY
 HOST-SUFFIX,cyberx.com,PROXY
 HOST-SUFFIX,cygames.co.jp,PROXY
+HOST-SUFFIX,cygames.com,PROXY
 HOST-SUFFIX,cygames.jp,PROXY
 HOST-SUFFIX,cygwin.com,PROXY
 HOST-SUFFIX,cylink.pro,PROXY
@@ -26686,6 +26687,7 @@ HOST-SUFFIX,yavtube.com,PROXY
 HOST-SUFFIX,yaya.cyou,PROXY
 HOST-SUFFIX,yayadizhi.xyz,PROXY
 HOST-SUFFIX,yazhouse8.com,PROXY
+HOST-SUFFIX,yb-payment.ru,PROXY
 HOST-SUFFIX,yccdn.ru,PROXY
 HOST-SUFFIX,yclients.com,PROXY
 HOST-SUFFIX,ycombinator.com,PROXY
