@@ -1,5 +1,5 @@
 # Proxy List for Quantumult X
-# Updated: 2026-11-18 05:27:18
+# Updated: 2026-11-19 05:24:30
 # Total domains: 27287
 
 HOST-SUFFIX,000webhost.com,PROXY
@@ -8006,6 +8006,7 @@ HOST-SUFFIX,elephanttube.com,PROXY
 HOST-SUFFIX,elephanttubenew.com,PROXY
 HOST-SUFFIX,elevenlabs.com,PROXY
 HOST-SUFFIX,elevenlabs.io,PROXY
+HOST-SUFFIX,elevenlabsusercontent.com,PROXY
 HOST-SUFFIX,elgaronline.com,PROXY
 HOST-SUFFIX,elgoog.im,PROXY
 HOST-SUFFIX,elib.maruzen.co.jp,PROXY
@@ -26651,7 +26652,6 @@ HOST-SUFFIX,yandexdataschool.ru,PROXY
 HOST-SUFFIX,yandexgo.com,PROXY
 HOST-SUFFIX,yandexlyceum.ru,PROXY
 HOST-SUFFIX,yandexwebcache.net,PROXY
-HOST-SUFFIX,yandexwebcache.org,PROXY
 HOST-SUFFIX,yango-b2b.com,PROXY
 HOST-SUFFIX,yango-team.com,PROXY
 HOST-SUFFIX,yango-tech.com,PROXY
