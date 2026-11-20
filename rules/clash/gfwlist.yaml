@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-11-19 05:24:30
-# Total domains: 4120
+# Updated: 2026-11-20 05:10:57
+# Total domains: 4122
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -957,6 +957,7 @@ payload:
   - '+.dtiblog.com'
   - '+.dtic.mil'
   - '+.dubox.com'
+  - '+.duck.ai'
   - '+.duck.com'
   - '+.duckduckgo.com'
   - '+.duckmylife.com'
@@ -1279,9 +1280,9 @@ payload:
   - '+.gabocorp.com'
   - '+.gagaoolala.com'
   - '+.galenwu.com'
-  - '+.game735.com'
   - '+.gamer.com.tw'
   - '+.gamez.com.tw'
+  - '+.gamma.app'
   - '+.ganjing.com'
   - '+.ganjingworld.com'
   - '+.gaoming.net'
@@ -3145,6 +3146,7 @@ payload:
   - '+.sosreader.com'
   - '+.sotwe.com'
   - '+.soulcaliburhentai.net'
+  - '+.soulogic.com'
   - '+.soundcloud.com'
   - '+.soundofhope.org'
   - '+.soundon.fm'

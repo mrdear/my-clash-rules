@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-11-19 05:24:30
-# Total domains: 4120
+# Updated: 2026-11-20 05:10:57
+# Total domains: 4122
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -957,6 +957,7 @@ HOST-SUFFIX,dt18.com,GFWLIST
 HOST-SUFFIX,dtiblog.com,GFWLIST
 HOST-SUFFIX,dtic.mil,GFWLIST
 HOST-SUFFIX,dubox.com,GFWLIST
+HOST-SUFFIX,duck.ai,GFWLIST
 HOST-SUFFIX,duck.com,GFWLIST
 HOST-SUFFIX,duckduckgo.com,GFWLIST
 HOST-SUFFIX,duckmylife.com,GFWLIST
@@ -1279,9 +1280,9 @@ HOST-SUFFIX,gab.com,GFWLIST
 HOST-SUFFIX,gabocorp.com,GFWLIST
 HOST-SUFFIX,gagaoolala.com,GFWLIST
 HOST-SUFFIX,galenwu.com,GFWLIST
-HOST-SUFFIX,game735.com,GFWLIST
 HOST-SUFFIX,gamer.com.tw,GFWLIST
 HOST-SUFFIX,gamez.com.tw,GFWLIST
+HOST-SUFFIX,gamma.app,GFWLIST
 HOST-SUFFIX,ganjing.com,GFWLIST
 HOST-SUFFIX,ganjingworld.com,GFWLIST
 HOST-SUFFIX,gaoming.net,GFWLIST
@@ -3145,6 +3146,7 @@ HOST-SUFFIX,sosad.fun,GFWLIST
 HOST-SUFFIX,sosreader.com,GFWLIST
 HOST-SUFFIX,sotwe.com,GFWLIST
 HOST-SUFFIX,soulcaliburhentai.net,GFWLIST
+HOST-SUFFIX,soulogic.com,GFWLIST
 HOST-SUFFIX,soundcloud.com,GFWLIST
 HOST-SUFFIX,soundofhope.org,GFWLIST
 HOST-SUFFIX,soundon.fm,GFWLIST
