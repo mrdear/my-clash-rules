@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-11-20 05:10:57
-# Total domains: 4122
+# Updated: 2026-11-21 05:03:10
+# Total domains: 4148
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -718,6 +718,8 @@ HOST-SUFFIX,clyp.it,GFWLIST
 HOST-SUFFIX,cmcn.org,GFWLIST
 HOST-SUFFIX,cmegroup.com,GFWLIST
 HOST-SUFFIX,cmi.org.tw,GFWLIST
+HOST-SUFFIX,cmmedia.com.tw,GFWLIST
+HOST-SUFFIX,cmoney.tw,GFWLIST
 HOST-SUFFIX,cms.gov,GFWLIST
 HOST-SUFFIX,cmule.com,GFWLIST
 HOST-SUFFIX,cmx.im,GFWLIST
@@ -729,6 +731,7 @@ HOST-SUFFIX,cnbeta.com.tw,GFWLIST
 HOST-SUFFIX,cnd.org,GFWLIST
 HOST-SUFFIX,cnnews.chosun.com,GFWLIST
 HOST-SUFFIX,cnpolitics.org,GFWLIST
+HOST-SUFFIX,cnyes.com,GFWLIST
 HOST-SUFFIX,co.ng.mil,GFWLIST
 HOST-SUFFIX,coat.co.jp,GFWLIST
 HOST-SUFFIX,cobinhood.com,GFWLIST
@@ -979,6 +982,7 @@ HOST-SUFFIX,dysfz.cc,GFWLIST
 HOST-SUFFIX,e-classical.com.tw,GFWLIST
 HOST-SUFFIX,e-gold.com,GFWLIST
 HOST-SUFFIX,e-hentai.org,GFWLIST
+HOST-SUFFIX,e-info.org.tw,GFWLIST
 HOST-SUFFIX,e123.hk,GFWLIST
 HOST-SUFFIX,e621.net,GFWLIST
 HOST-SUFFIX,earthvpn.com,GFWLIST
@@ -1649,6 +1653,7 @@ HOST-SUFFIX,greatfire.org,GFWLIST
 HOST-SUFFIX,greatfire.us7.list-manage.com,GFWLIST
 HOST-SUFFIX,greatfirevpn.com,GFWLIST
 HOST-SUFFIX,greatfirewallofchina.org,GFWLIST
+HOST-SUFFIX,greenbean.media,GFWLIST
 HOST-SUFFIX,greenpeace.org,GFWLIST
 HOST-SUFFIX,greenvpn.net,GFWLIST
 HOST-SUFFIX,grindr.com,GFWLIST
@@ -1738,12 +1743,15 @@ HOST-SUFFIX,hka8964.wordpress.com,GFWLIST
 HOST-SUFFIX,hkanews.wordpress.com,GFWLIST
 HOST-SUFFIX,hkbookcity.com,GFWLIST
 HOST-SUFFIX,hkchronicles.com,GFWLIST
+HOST-SUFFIX,hkcitycreation.com,GFWLIST
 HOST-SUFFIX,hkcnews.com,GFWLIST
 HOST-SUFFIX,hkcoc.com,GFWLIST
+HOST-SUFFIX,hkcourtnews.com,GFWLIST
 HOST-SUFFIX,hkdc.us,GFWLIST
 HOST-SUFFIX,hkej.com,GFWLIST
 HOST-SUFFIX,hket.com,GFWLIST
 HOST-SUFFIX,hkfaa.com,GFWLIST
+HOST-SUFFIX,hkfeature.com,GFWLIST
 HOST-SUFFIX,hkgalden.com,GFWLIST
 HOST-SUFFIX,hkgolden.com,GFWLIST
 HOST-SUFFIX,hkgpao.com,GFWLIST
@@ -2133,6 +2141,7 @@ HOST-SUFFIX,libgen.is,GFWLIST
 HOST-SUFFIX,library-access.sk,GFWLIST
 HOST-SUFFIX,libredd.it,GFWLIST
 HOST-SUFFIX,lifemiles.com,GFWLIST
+HOST-SUFFIX,lifesitenews.com,GFWLIST
 HOST-SUFFIX,lighten.org.tw,GFWLIST
 HOST-SUFFIX,lighti.me,GFWLIST
 HOST-SUFFIX,lightnovel.cn,GFWLIST
@@ -2141,6 +2150,7 @@ HOST-SUFFIX,lih.kg,GFWLIST
 HOST-SUFFIX,lihkg.com,GFWLIST
 HOST-SUFFIX,like.com,GFWLIST
 HOST-SUFFIX,lilaoshibushinilaoshi.com,GFWLIST
+HOST-SUFFIX,limedia.tw,GFWLIST
 HOST-SUFFIX,line-apps.com,GFWLIST
 HOST-SUFFIX,line-scdn.net,GFWLIST
 HOST-SUFFIX,line.me,GFWLIST
@@ -2230,6 +2240,7 @@ HOST-SUFFIX,martau.com,GFWLIST
 HOST-SUFFIX,marxist.net,GFWLIST
 HOST-SUFFIX,marxists.org,GFWLIST
 HOST-SUFFIX,mas.to,GFWLIST
+HOST-SUFFIX,master-insight.com,GFWLIST
 HOST-SUFFIX,mastodon.cloud,GFWLIST
 HOST-SUFFIX,mastodon.host,GFWLIST
 HOST-SUFFIX,mastodon.online,GFWLIST
@@ -2245,6 +2256,7 @@ HOST-SUFFIX,matters.news,GFWLIST
 HOST-SUFFIX,matters.town,GFWLIST
 HOST-SUFFIX,matthewdgreen.wordpress.com,GFWLIST
 HOST-SUFFIX,mattwilcox.net,GFWLIST
+HOST-SUFFIX,mc.yandex.ru,GFWLIST
 HOST-SUFFIX,mcadforums.com,GFWLIST
 HOST-SUFFIX,mceindex.com,GFWLIST
 HOST-SUFFIX,mcusercontent.com,GFWLIST
@@ -2359,6 +2371,7 @@ HOST-SUFFIX,momoshop.com.tw,GFWLIST
 HOST-SUFFIX,mondex.org,GFWLIST
 HOST-SUFFIX,money-link.com.tw,GFWLIST
 HOST-SUFFIX,moneydj.com,GFWLIST
+HOST-SUFFIX,moneynet.com.tw,GFWLIST
 HOST-SUFFIX,monica.im,GFWLIST
 HOST-SUFFIX,monitorchina.org,GFWLIST
 HOST-SUFFIX,monocloud.me,GFWLIST
@@ -2396,6 +2409,7 @@ HOST-SUFFIX,muzi.com,GFWLIST
 HOST-SUFFIX,muzi.net,GFWLIST
 HOST-SUFFIX,muzu.tv,GFWLIST
 HOST-SUFFIX,mvg.jp,GFWLIST
+HOST-SUFFIX,my-formosa.com.tw,GFWLIST
 HOST-SUFFIX,my-private-network.co.uk,GFWLIST
 HOST-SUFFIX,my.pcloud.com,GFWLIST
 HOST-SUFFIX,myaudiocast.com,GFWLIST
@@ -2477,6 +2491,7 @@ HOST-SUFFIX,newtalk.tw,GFWLIST
 HOST-SUFFIX,newthuhole.com,GFWLIST
 HOST-SUFFIX,newyorker.com,GFWLIST
 HOST-SUFFIX,nexon.com,GFWLIST
+HOST-SUFFIX,nextapple.com,GFWLIST
 HOST-SUFFIX,nextdigital.com.hk,GFWLIST
 HOST-SUFFIX,nexton-net.jp,GFWLIST
 HOST-SUFFIX,nexttv.com.tw,GFWLIST
@@ -2660,6 +2675,7 @@ HOST-SUFFIX,parse.com,GFWLIST
 HOST-SUFFIX,parsevideo.com,GFWLIST
 HOST-SUFFIX,partnerstack.xyz,GFWLIST
 HOST-SUFFIX,passion.com,GFWLIST
+HOST-SUFFIX,passiontimes.hk,GFWLIST
 HOST-SUFFIX,paste.ee,GFWLIST
 HOST-SUFFIX,pastie.org,GFWLIST
 HOST-SUFFIX,patreon.com,GFWLIST
@@ -2834,6 +2850,7 @@ HOST-SUFFIX,ptwxz.com,GFWLIST
 HOST-SUFFIX,pubu.com.tw,GFWLIST
 HOST-SUFFIX,puffinbrowser.com,GFWLIST
 HOST-SUFFIX,pullfolio.co,GFWLIST
+HOST-SUFFIX,pulsehknews.com,GFWLIST
 HOST-SUFFIX,pure18.com,GFWLIST
 HOST-SUFFIX,pureconcepts.net,GFWLIST
 HOST-SUFFIX,pureinsight.org,GFWLIST
@@ -3046,6 +3063,7 @@ HOST-SUFFIX,shadowsocks.be,GFWLIST
 HOST-SUFFIX,shadowsocks.com.hk,GFWLIST
 HOST-SUFFIX,shadowsocks.org,GFWLIST
 HOST-SUFFIX,shahit.biz,GFWLIST
+HOST-SUFFIX,shanghainationalparty.com,GFWLIST
 HOST-SUFFIX,share-videos.se,GFWLIST
 HOST-SUFFIX,share.america.gov,GFWLIST
 HOST-SUFFIX,sharecool.org,GFWLIST
@@ -3084,6 +3102,7 @@ HOST-SUFFIX,sinchew.com.my,GFWLIST
 HOST-SUFFIX,sing-box.sagernet.org,GFWLIST
 HOST-SUFFIX,singaporepools.com.sg,GFWLIST
 HOST-SUFFIX,singlelogin.se,GFWLIST
+HOST-SUFFIX,singpao.com.hk,GFWLIST
 HOST-SUFFIX,singtao.com,GFWLIST
 HOST-SUFFIX,singtaousa.com,GFWLIST
 HOST-SUFFIX,sinoants.com,GFWLIST
@@ -3282,6 +3301,7 @@ HOST-SUFFIX,taiwanhot.net,GFWLIST
 HOST-SUFFIX,taiwanjustice.net,GFWLIST
 HOST-SUFFIX,taiwanncf.org.tw,GFWLIST
 HOST-SUFFIX,taiwannews.com.tw,GFWLIST
+HOST-SUFFIX,taiwantoday.tw,GFWLIST
 HOST-SUFFIX,taiwantt.org.tw,GFWLIST
 HOST-SUFFIX,talkatone.com,GFWLIST
 HOST-SUFFIX,talkboxapp.com,GFWLIST
@@ -3343,6 +3363,7 @@ HOST-SUFFIX,thebodyshop-usa.com,GFWLIST
 HOST-SUFFIX,thecenter.mit.edu,GFWLIST
 HOST-SUFFIX,thechasernews.co.uk,GFWLIST
 HOST-SUFFIX,thechinacollection.org,GFWLIST
+HOST-SUFFIX,thecollectivehk.com,GFWLIST
 HOST-SUFFIX,theconversation.com,GFWLIST
 HOST-SUFFIX,thediplomat.com,GFWLIST
 HOST-SUFFIX,thedw.us,GFWLIST
@@ -3356,18 +3377,22 @@ HOST-SUFFIX,thehun.net,GFWLIST
 HOST-SUFFIX,theinitium.com,GFWLIST
 HOST-SUFFIX,theintercept.com,GFWLIST
 HOST-SUFFIX,thenewslens.com,GFWLIST
+HOST-SUFFIX,theonlinecitizen.com,GFWLIST
 HOST-SUFFIX,thepiratebay.org,GFWLIST
 HOST-SUFFIX,theporndude.com,GFWLIST
 HOST-SUFFIX,theportalwiki.com,GFWLIST
 HOST-SUFFIX,theprint.in,GFWLIST
 HOST-SUFFIX,thesaturdaypaper.com.au,GFWLIST
+HOST-SUFFIX,thestandard.com.hk,GFWLIST
 HOST-SUFFIX,thestandnews.com,GFWLIST
+HOST-SUFFIX,thestar.com,GFWLIST
 HOST-SUFFIX,thetatoken.org,GFWLIST
 HOST-SUFFIX,thetibetpost.com,GFWLIST
 HOST-SUFFIX,thetvdb.com,GFWLIST
 HOST-SUFFIX,theweek.com,GFWLIST
 HOST-SUFFIX,thewgo.org,GFWLIST
 HOST-SUFFIX,thewirechina.com,GFWLIST
+HOST-SUFFIX,thewitnesshk.com,GFWLIST
 HOST-SUFFIX,thinkchina.sg,GFWLIST
 HOST-SUFFIX,thinkgeek.com,GFWLIST
 HOST-SUFFIX,thinkingtaiwan.com,GFWLIST
@@ -3890,6 +3915,7 @@ HOST-SUFFIX,wo3ttt.wordpress.com,GFWLIST
 HOST-SUFFIX,woeser.com,GFWLIST
 HOST-SUFFIX,wokar.org,GFWLIST
 HOST-SUFFIX,wolfax.com,GFWLIST
+HOST-SUFFIX,womany.net,GFWLIST
 HOST-SUFFIX,wombo.ai,GFWLIST
 HOST-SUFFIX,woolyss.com,GFWLIST
 HOST-SUFFIX,woopie.jp,GFWLIST
