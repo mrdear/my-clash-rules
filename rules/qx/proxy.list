@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-11-23 05:04:43
-# Total domains: 27197
+# Updated: 2026-11-24 07:51:53
+# Total domains: 27198
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -10046,6 +10046,7 @@ HOST-SUFFIX,gemfury.com,PROXY
 HOST-SUFFIX,gemini.com,PROXY
 HOST-SUFFIX,geminiweb-pa.clients.google.com,PROXY
 HOST-SUFFIX,geminiweb-pa.clients6.google.com,PROXY
+HOST-SUFFIX,gemma.ai,PROXY
 HOST-SUFFIX,gen.lib.rus.ec,PROXY
 HOST-SUFFIX,genbank.ru,PROXY
 HOST-SUFFIX,gencraft.com,PROXY
