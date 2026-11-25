@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-11-24 07:51:53
-# Total domains: 27198
+# Updated: 2026-11-25 06:24:56
+# Total domains: 27203
 payload:
   - '000webhost.com'
   - '01.org'
@@ -4885,6 +4885,7 @@ payload:
   - 'cabletvdirectv.com'
   - 'cachefly.com'
   - 'cachefly.net'
+  - 'cachix.org'
   - 'cacnw.com'
   - 'cactusvpn.com'
   - 'cad-mep.com'
@@ -6065,6 +6066,7 @@ payload:
   - 'coursera.community'
   - 'coursera.help'
   - 'coursera.org'
+  - 'courses.myecnu.org'
   - 'covenantswatch.org.tw'
   - 'coverartarchive.org'
   - 'covid19-rx.org'
@@ -8856,10 +8858,12 @@ payload:
   - 'fastlane.ci'
   - 'fastlane.tools'
   - 'fastly-edge.com'
+  - 'fastly-insights.com'
   - 'fastly-terrarium.com'
   - 'fastly.com'
   - 'fastly.io'
   - 'fastly.net'
+  - 'fastlydns.net'
   - 'fastlylabs.com'
   - 'fastlylb.net'
   - 'fastpic.ru'
@@ -24500,6 +24504,7 @@ payload:
   - 'viu.tv'
   - 'vivaldi.com'
   - 'vivaxnxx.com'
+  - 'vivox.com'
   - 'vivthomas.com'
   - 'vixen.com'
   - 'vixengroup.com'

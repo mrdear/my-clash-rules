@@ -1,6 +1,6 @@
 # Proxy List for Quantumult X
-# Updated: 2026-11-24 07:51:53
-# Total domains: 27198
+# Updated: 2026-11-25 06:24:56
+# Total domains: 27203
 
 HOST-SUFFIX,000webhost.com,PROXY
 HOST-SUFFIX,01.org,PROXY
@@ -4885,6 +4885,7 @@ HOST-SUFFIX,cabletv.com.hk,PROXY
 HOST-SUFFIX,cabletvdirectv.com,PROXY
 HOST-SUFFIX,cachefly.com,PROXY
 HOST-SUFFIX,cachefly.net,PROXY
+HOST-SUFFIX,cachix.org,PROXY
 HOST-SUFFIX,cacnw.com,PROXY
 HOST-SUFFIX,cactusvpn.com,PROXY
 HOST-SUFFIX,cad-mep.com,PROXY
@@ -6065,6 +6066,7 @@ HOST-SUFFIX,coursera-for-business.org,PROXY
 HOST-SUFFIX,coursera.community,PROXY
 HOST-SUFFIX,coursera.help,PROXY
 HOST-SUFFIX,coursera.org,PROXY
+HOST-SUFFIX,courses.myecnu.org,PROXY
 HOST-SUFFIX,covenantswatch.org.tw,PROXY
 HOST-SUFFIX,coverartarchive.org,PROXY
 HOST-SUFFIX,covid19-rx.org,PROXY
@@ -8856,10 +8858,12 @@ HOST-SUFFIX,fastindianporn.com,PROXY
 HOST-SUFFIX,fastlane.ci,PROXY
 HOST-SUFFIX,fastlane.tools,PROXY
 HOST-SUFFIX,fastly-edge.com,PROXY
+HOST-SUFFIX,fastly-insights.com,PROXY
 HOST-SUFFIX,fastly-terrarium.com,PROXY
 HOST-SUFFIX,fastly.com,PROXY
 HOST-SUFFIX,fastly.io,PROXY
 HOST-SUFFIX,fastly.net,PROXY
+HOST-SUFFIX,fastlydns.net,PROXY
 HOST-SUFFIX,fastlylabs.com,PROXY
 HOST-SUFFIX,fastlylb.net,PROXY
 HOST-SUFFIX,fastpic.ru,PROXY
@@ -24500,6 +24504,7 @@ HOST-SUFFIX,viu.com,PROXY
 HOST-SUFFIX,viu.tv,PROXY
 HOST-SUFFIX,vivaldi.com,PROXY
 HOST-SUFFIX,vivaxnxx.com,PROXY
+HOST-SUFFIX,vivox.com,PROXY
 HOST-SUFFIX,vivthomas.com,PROXY
 HOST-SUFFIX,vixen.com,PROXY
 HOST-SUFFIX,vixengroup.com,PROXY
