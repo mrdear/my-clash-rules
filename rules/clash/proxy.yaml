@@ -1,6 +1,6 @@
 # Proxy List for Clash rule-provider
-# Updated: 2026-11-27 06:06:47
-# Total domains: 27214
+# Updated: 2026-11-28 05:47:40
+# Total domains: 27219
 payload:
   - '000webhost.com'
   - '01.org'
@@ -1095,6 +1095,7 @@ payload:
   - 'ai91porn.cc'
   - 'aiaa.org'
   - 'aiasahi.jp'
+  - 'aicu.cc'
   - 'aidc.com.tw'
   - 'aihub.top'
   - 'aimei133.com'
@@ -2548,6 +2549,7 @@ payload:
   - 'auricularemonsterbeats.com'
   - 'auricularesbeatsbaratosshop.com'
   - 'auricularesbeatsmarkt.com'
+  - 'aurora-customization-usw2.lithium.com'
   - 'auroraoss.com'
   - 'ausbeatsbydrdre.com'
   - 'auth0.com'
@@ -6409,6 +6411,7 @@ payload:
   - 'dandanplay.net'
   - 'dandanzan.cc'
   - 'danke4china.net'
+  - 'danmakus.com'
   - 'danmarkbeatsbydrdre.com'
   - 'danskpornofilm.com'
   - 'dansmovies.com'
@@ -8928,6 +8931,7 @@ payload:
   - 'fc2ppv.tv'
   - 'fcacebook.com'
   - 'fcaebook.com'
+  - 'fce.gg'
   - 'fcebook.com'
   - 'fcebookk.com'
   - 'fcfacebook.com'
@@ -21673,6 +21677,7 @@ payload:
   - 'soyjak.st'
   - 'sp.cool'
   - 'spacebattles.com'
+  - 'spacedesk.net'
   - 'spaceexplored.com'
   - 'spaceforce.mil'
   - 'spacely.com.au'

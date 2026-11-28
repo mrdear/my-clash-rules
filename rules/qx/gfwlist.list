@@ -1,6 +1,6 @@
 # GFW List for Quantumult X
-# Updated: 2026-11-27 06:06:47
-# Total domains: 4148
+# Updated: 2026-11-28 05:47:39
+# Total domains: 4151
 
 HOST-SUFFIX,000webhost.com,GFWLIST
 HOST-SUFFIX,1-apple.com.tw,GFWLIST
@@ -126,6 +126,7 @@ HOST-SUFFIX,agoogleaday.com,GFWLIST
 HOST-SUFFIX,agro.hk,GFWLIST
 HOST-SUFFIX,ai.dev,GFWLIST
 HOST-SUFFIX,ai.studio,GFWLIST
+HOST-SUFFIX,aicu.cc,GFWLIST
 HOST-SUFFIX,aidc.com.tw,GFWLIST
 HOST-SUFFIX,aihub.top,GFWLIST
 HOST-SUFFIX,aiosearch.com,GFWLIST
@@ -841,6 +842,7 @@ HOST-SUFFIX,dalianmeng.org,GFWLIST
 HOST-SUFFIX,daliulian.org,GFWLIST
 HOST-SUFFIX,danbooru.donmai.us,GFWLIST
 HOST-SUFFIX,danke4china.net,GFWLIST
+HOST-SUFFIX,danmakus.com,GFWLIST
 HOST-SUFFIX,darmau.co,GFWLIST
 HOST-SUFFIX,darpa.mil,GFWLIST
 HOST-SUFFIX,darrenliuwei.com,GFWLIST
@@ -3176,6 +3178,7 @@ HOST-SUFFIX,southmongolia.org,GFWLIST
 HOST-SUFFIX,southnews.com.tw,GFWLIST
 HOST-SUFFIX,southpark.cc.com,GFWLIST
 HOST-SUFFIX,sowers.org.hk,GFWLIST
+HOST-SUFFIX,spacedesk.net,GFWLIST
 HOST-SUFFIX,spaceforce.mil,GFWLIST
 HOST-SUFFIX,spaces.hightail.com,GFWLIST
 HOST-SUFFIX,spacex.com,GFWLIST

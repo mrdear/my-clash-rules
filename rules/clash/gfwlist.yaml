@@ -1,6 +1,6 @@
 # GFW List for Clash rule-provider
-# Updated: 2026-11-27 06:06:47
-# Total domains: 4148
+# Updated: 2026-11-28 05:47:39
+# Total domains: 4151
 payload:
   - '+.000webhost.com'
   - '+.1-apple.com.tw'
@@ -126,6 +126,7 @@ payload:
   - '+.agro.hk'
   - '+.ai.dev'
   - '+.ai.studio'
+  - '+.aicu.cc'
   - '+.aidc.com.tw'
   - '+.aihub.top'
   - '+.aiosearch.com'
@@ -841,6 +842,7 @@ payload:
   - '+.daliulian.org'
   - '+.danbooru.donmai.us'
   - '+.danke4china.net'
+  - '+.danmakus.com'
   - '+.darmau.co'
   - '+.darpa.mil'
   - '+.darrenliuwei.com'
@@ -3176,6 +3178,7 @@ payload:
   - '+.southnews.com.tw'
   - '+.southpark.cc.com'
   - '+.sowers.org.hk'
+  - '+.spacedesk.net'
   - '+.spaceforce.mil'
   - '+.spaces.hightail.com'
   - '+.spacex.com'
